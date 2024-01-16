@@ -1,0 +1,1278 @@
+[{
+		"name": "planId:126",
+		"version": "1.0",
+		"id": "document"
+	},
+	{
+		"name": "MastPoint: 8375e52f-fcda-4e3c-869b-80756761d8eb",
+		"properties": {
+			"data": {
+				"id": 31983,
+				"externalMastId": "8375e52f-fcda-4e3c-869b-80756761d8eb",
+				"planEntityData": {
+					"liveObjectId": null,
+					"isMarkedForDeletion": false
+				},
+				"lat": 60.1561899721,
+				"lng": 10.2504933984,
+				"poles": [{
+					"id": 32096,
+					"externalPoleId": "771f9e30-c825-443e-ad57-83eede188919",
+					"planEntityData": {
+						"liveObjectId": null,
+						"isMarkedForDeletion": false
+					}
+				}]
+			},
+			"entityType": "MASTPOINT"
+		},
+		"position": {
+			"cartographicDegrees": [
+				10.2504933984,
+				60.1561899721,
+				78.22768128074026
+			]
+		},
+		"cylinder": {
+			"length": 8.3,
+			"topRadius": 0.5,
+			"bottomRadius": 0.5,
+			"material": {
+				"solidColor": {
+					"color": {
+						"rgba": [
+							220,
+							220,
+							220,
+							255
+						]
+					}
+				}
+			},
+			"slices": 6
+		},
+		"id": "MastPoint:31983"
+	},
+	{
+		"name": "Support: Kalkulert fra stolpe",
+		"description": "",
+		"properties": {
+			"data": {
+				"poleId": 32096,
+				"calculated": true,
+				"newSupportDistanceFromPole": 4.05,
+				"newSupportBearingFromPole": 175,
+				"usedSupportGradient": 2,
+				"correctedSupportTension": 20.31,
+				"crossSectionSupport": 21.42,
+				"planEntityData": null
+			},
+			"entityType": "SUPPORT"
+		},
+		"polyline": {
+			"positions": {
+				"cartographicDegrees": [
+					10.25049981088913,
+					60.15615368963539,
+					74.07768128074025,
+					10.2504933984,
+					60.1561899721,
+					82.17768128074025
+				]
+			},
+			"material": {
+				"polylineDash": {
+					"color": {
+						"rgba": [
+							30,
+							144,
+							255,
+							255
+						]
+					},
+					"outlineColor": {
+						"rgba": [
+							30,
+							144,
+							255,
+							255
+						]
+					},
+					"outlineWidth": 1,
+					"dashPattern": 255
+				}
+			},
+			"width": 3,
+			"arcType": 2
+		},
+		"id": "supportPoleId:32096"
+	},
+	{
+		"name": "MastPoint: 05b74298-af77-4acb-9c85-4a24d759702f",
+		"properties": {
+			"data": {
+				"id": 31984,
+				"externalMastId": "05b74298-af77-4acb-9c85-4a24d759702f",
+				"planEntityData": {
+					"liveObjectId": null,
+					"isMarkedForDeletion": false
+				},
+				"lat": 60.1559499438,
+				"lng": 10.2510642632,
+				"poles": [{
+					"id": 32097,
+					"externalPoleId": "76ec1675-9d6a-4c22-83fa-8d1ca693d3e2",
+					"planEntityData": {
+						"liveObjectId": null,
+						"isMarkedForDeletion": false
+					}
+				}]
+			},
+			"entityType": "MASTPOINT"
+		},
+		"position": {
+			"cartographicDegrees": [
+				10.2510642632,
+				60.1559499438,
+				79.36126256155524
+			]
+		},
+		"cylinder": {
+			"length": 8.3,
+			"topRadius": 0.5,
+			"bottomRadius": 0.5,
+			"material": {
+				"solidColor": {
+					"color": {
+						"rgba": [
+							220,
+							220,
+							220,
+							255
+						]
+					}
+				}
+			},
+			"slices": 6
+		},
+		"id": "MastPoint:31984"
+	},
+	{
+		"name": "MastPoint: ce2b0c89-3236-4a3d-849d-58813545cc7d",
+		"properties": {
+			"data": {
+				"id": 31985,
+				"externalMastId": "ce2b0c89-3236-4a3d-849d-58813545cc7d",
+				"planEntityData": {
+					"liveObjectId": null,
+					"isMarkedForDeletion": false
+				},
+				"lat": 60.1557981865,
+				"lng": 10.2516572411,
+				"poles": [{
+					"id": 32098,
+					"externalPoleId": "da72f22e-a52a-48f8-9486-7337e7fd589b",
+					"planEntityData": {
+						"liveObjectId": null,
+						"isMarkedForDeletion": false
+					}
+				}]
+			},
+			"entityType": "MASTPOINT"
+		},
+		"position": {
+			"cartographicDegrees": [
+				10.2516572411,
+				60.1557981865,
+				80.96335447323729
+			]
+		},
+		"cylinder": {
+			"length": 8.3,
+			"topRadius": 0.5,
+			"bottomRadius": 0.5,
+			"material": {
+				"solidColor": {
+					"color": {
+						"rgba": [
+							220,
+							220,
+							220,
+							255
+						]
+					}
+				}
+			},
+			"slices": 6
+		},
+		"id": "MastPoint:31985"
+	},
+	{
+		"name": "MastPoint: 61b4c50d-d328-46ae-a07d-d8dfc613ca84",
+		"properties": {
+			"data": {
+				"id": 31986,
+				"externalMastId": "61b4c50d-d328-46ae-a07d-d8dfc613ca84",
+				"planEntityData": {
+					"liveObjectId": null,
+					"isMarkedForDeletion": false
+				},
+				"lat": 60.1558328163,
+				"lng": 10.2505016704,
+				"poles": [{
+					"id": 32099,
+					"externalPoleId": "f8d7e536-faa5-4e5c-8c84-007ab58f8e93",
+					"planEntityData": {
+						"liveObjectId": null,
+						"isMarkedForDeletion": false
+					}
+				}]
+			},
+			"entityType": "MASTPOINT"
+		},
+		"position": {
+			"cartographicDegrees": [
+				10.2505016704,
+				60.1558328163,
+				79.13676014913395
+			]
+		},
+		"cylinder": {
+			"length": 8.3,
+			"topRadius": 0.5,
+			"bottomRadius": 0.5,
+			"material": {
+				"solidColor": {
+					"color": {
+						"rgba": [
+							220,
+							220,
+							220,
+							255
+						]
+					}
+				}
+			},
+			"slices": 6
+		},
+		"id": "MastPoint:31986"
+	},
+	{
+		"name": "MastPoint: 96e474c4-9027-4da9-8372-f77ecacf4b5c",
+		"properties": {
+			"data": {
+				"id": 31987,
+				"externalMastId": "96e474c4-9027-4da9-8372-f77ecacf4b5c",
+				"planEntityData": {
+					"liveObjectId": null,
+					"isMarkedForDeletion": false
+				},
+				"lat": 60.1554703023,
+				"lng": 10.250521517,
+				"poles": [{
+					"id": 32100,
+					"externalPoleId": "4dd2ea3e-519a-44a2-a536-286d5b9e5b4a",
+					"planEntityData": {
+						"liveObjectId": null,
+						"isMarkedForDeletion": false
+					}
+				}]
+			},
+			"entityType": "MASTPOINT"
+		},
+		"position": {
+			"cartographicDegrees": [
+				10.250521517,
+				60.1554703023,
+				80.06476131431764
+			]
+		},
+		"cylinder": {
+			"length": 8.3,
+			"topRadius": 0.5,
+			"bottomRadius": 0.5,
+			"material": {
+				"solidColor": {
+					"color": {
+						"rgba": [
+							220,
+							220,
+							220,
+							255
+						]
+					}
+				}
+			},
+			"slices": 6
+		},
+		"id": "MastPoint:31987"
+	},
+	{
+		"name": "MastPoint: 426405c8-b412-4e0b-814a-f7d0a07408ee",
+		"properties": {
+			"data": {
+				"id": 31988,
+				"externalMastId": "426405c8-b412-4e0b-814a-f7d0a07408ee",
+				"planEntityData": {
+					"liveObjectId": null,
+					"isMarkedForDeletion": false
+				},
+				"lat": 60.1556520408,
+				"lng": 10.2522586994,
+				"poles": [{
+					"id": 32101,
+					"externalPoleId": "238229b1-b482-4715-b6b4-d1fddeb51fd5",
+					"planEntityData": {
+						"liveObjectId": null,
+						"isMarkedForDeletion": false
+					}
+				}]
+			},
+			"entityType": "MASTPOINT"
+		},
+		"position": {
+			"cartographicDegrees": [
+				10.2522586994,
+				60.1556520408,
+				81.6729489178901
+			]
+		},
+		"cylinder": {
+			"length": 8.3,
+			"topRadius": 0.5,
+			"bottomRadius": 0.5,
+			"material": {
+				"solidColor": {
+					"color": {
+						"rgba": [
+							220,
+							220,
+							220,
+							255
+						]
+					}
+				}
+			},
+			"slices": 6
+		},
+		"id": "MastPoint:31988"
+	},
+	{
+		"name": "MastPoint: 80f6637f-f22b-49bd-8a86-102c94c68cf2",
+		"properties": {
+			"data": {
+				"id": 31989,
+				"externalMastId": "80f6637f-f22b-49bd-8a86-102c94c68cf2",
+				"planEntityData": {
+					"liveObjectId": null,
+					"isMarkedForDeletion": false
+				},
+				"lat": 60.1556953703,
+				"lng": 10.2526667436,
+				"poles": [{
+					"id": 32102,
+					"externalPoleId": "e5cc6147-a7c9-4ba5-89da-e22d740e81e0",
+					"planEntityData": {
+						"liveObjectId": null,
+						"isMarkedForDeletion": false
+					}
+				}]
+			},
+			"entityType": "MASTPOINT"
+		},
+		"position": {
+			"cartographicDegrees": [
+				10.2526667436,
+				60.1556953703,
+				82.47135843103524
+			]
+		},
+		"cylinder": {
+			"length": 8.3,
+			"topRadius": 0.5,
+			"bottomRadius": 0.5,
+			"material": {
+				"solidColor": {
+					"color": {
+						"rgba": [
+							220,
+							220,
+							220,
+							255
+						]
+					}
+				}
+			},
+			"slices": 6
+		},
+		"id": "MastPoint:31989"
+	},
+	{
+		"name": "MastPoint: 77551788-e4c4-49c9-8d8e-29f2932562a0",
+		"properties": {
+			"data": {
+				"id": 31990,
+				"externalMastId": "77551788-e4c4-49c9-8d8e-29f2932562a0",
+				"planEntityData": {
+					"liveObjectId": null,
+					"isMarkedForDeletion": false
+				},
+				"lat": 60.1559743127,
+				"lng": 10.252940097,
+				"poles": [{
+					"id": 32103,
+					"externalPoleId": "3aa107ec-6b63-4e96-8269-775a89a29217",
+					"planEntityData": {
+						"liveObjectId": null,
+						"isMarkedForDeletion": false
+					}
+				}]
+			},
+			"entityType": "MASTPOINT"
+		},
+		"position": {
+			"cartographicDegrees": [
+				10.252940097,
+				60.1559743127,
+				82.76114150617042
+			]
+		},
+		"cylinder": {
+			"length": 8.3,
+			"topRadius": 0.5,
+			"bottomRadius": 0.5,
+			"material": {
+				"solidColor": {
+					"color": {
+						"rgba": [
+							220,
+							220,
+							220,
+							255
+						]
+					}
+				}
+			},
+			"slices": 6
+		},
+		"id": "MastPoint:31990"
+	},
+	{
+		"name": "MastPoint: e48fa3df-ce99-41e0-9839-092b3f88fabe",
+		"properties": {
+			"data": {
+				"id": 31991,
+				"externalMastId": "e48fa3df-ce99-41e0-9839-092b3f88fabe",
+				"planEntityData": {
+					"liveObjectId": null,
+					"isMarkedForDeletion": false
+				},
+				"lat": 60.1562329669,
+				"lng": 10.252903185,
+				"poles": [{
+					"id": 32104,
+					"externalPoleId": "665f1935-bf82-4b3d-ad0a-83be5d9f67af",
+					"planEntityData": {
+						"liveObjectId": null,
+						"isMarkedForDeletion": false
+					}
+				}]
+			},
+			"entityType": "MASTPOINT"
+		},
+		"position": {
+			"cartographicDegrees": [
+				10.252903185,
+				60.1562329669,
+				82.53460520038985
+			]
+		},
+		"cylinder": {
+			"length": 8.3,
+			"topRadius": 0.5,
+			"bottomRadius": 0.5,
+			"material": {
+				"solidColor": {
+					"color": {
+						"rgba": [
+							220,
+							220,
+							220,
+							255
+						]
+					}
+				}
+			},
+			"slices": 6
+		},
+		"id": "MastPoint:31991"
+	},
+	{
+		"name": "Support: Kalkulert fra stolpe",
+		"description": "",
+		"properties": {
+			"data": {
+				"poleId": 32104,
+				"calculated": true,
+				"newSupportDistanceFromPole": 4.05,
+				"newSupportBearingFromPole": 122,
+				"usedSupportGradient": 2,
+				"correctedSupportTension": 20.31,
+				"crossSectionSupport": 21.42,
+				"planEntityData": null
+			},
+			"entityType": "SUPPORT"
+		},
+		"polyline": {
+			"positions": {
+				"cartographicDegrees": [
+					10.252965515833663,
+					60.156213875628076,
+					78.38460520038984,
+					10.252903185,
+					60.1562329669,
+					86.48460520038984
+				]
+			},
+			"material": {
+				"polylineDash": {
+					"color": {
+						"rgba": [
+							30,
+							144,
+							255,
+							255
+						]
+					},
+					"outlineColor": {
+						"rgba": [
+							30,
+							144,
+							255,
+							255
+						]
+					},
+					"outlineWidth": 1,
+					"dashPattern": 255
+				}
+			},
+			"width": 3,
+			"arcType": 2
+		},
+		"id": "supportPoleId:32104"
+	},
+	{
+		"name": "MastPoint: a36f3760-85fb-448c-9afb-40369147d719",
+		"properties": {
+			"data": {
+				"id": 31992,
+				"externalMastId": "a36f3760-85fb-448c-9afb-40369147d719",
+				"planEntityData": {
+					"liveObjectId": null,
+					"isMarkedForDeletion": false
+				},
+				"lat": 60.1564027193,
+				"lng": 10.2523726903,
+				"poles": [{
+					"id": 32105,
+					"externalPoleId": "184c5cfc-901e-462f-be29-77eecd8e0584",
+					"planEntityData": {
+						"liveObjectId": null,
+						"isMarkedForDeletion": false
+					}
+				}]
+			},
+			"entityType": "MASTPOINT"
+		},
+		"position": {
+			"cartographicDegrees": [
+				10.2523726903,
+				60.1564027193,
+				81.28252369787943
+			]
+		},
+		"cylinder": {
+			"length": 8.3,
+			"topRadius": 0.5,
+			"bottomRadius": 0.5,
+			"material": {
+				"solidColor": {
+					"color": {
+						"rgba": [
+							220,
+							220,
+							220,
+							255
+						]
+					}
+				}
+			},
+			"slices": 6
+		},
+		"id": "MastPoint:31992"
+	},
+	{
+		"name": "MastPoint: eb2cf7c2-a9e2-4881-b416-8b4c14cf3ad5",
+		"properties": {
+			"data": {
+				"id": 31993,
+				"externalMastId": "eb2cf7c2-a9e2-4881-b416-8b4c14cf3ad5",
+				"planEntityData": {
+					"liveObjectId": null,
+					"isMarkedForDeletion": false
+				},
+				"lat": 60.1566103916,
+				"lng": 10.2518222105,
+				"poles": [{
+					"id": 32106,
+					"externalPoleId": "37ea3e4e-af79-46b9-9e39-7d04f715719e",
+					"planEntityData": {
+						"liveObjectId": null,
+						"isMarkedForDeletion": false
+					}
+				}]
+			},
+			"entityType": "MASTPOINT"
+		},
+		"position": {
+			"cartographicDegrees": [
+				10.2518222105,
+				60.1566103916,
+				79.4867455758338
+			]
+		},
+		"cylinder": {
+			"length": 8.3,
+			"topRadius": 0.5,
+			"bottomRadius": 0.5,
+			"material": {
+				"solidColor": {
+					"color": {
+						"rgba": [
+							220,
+							220,
+							220,
+							255
+						]
+					}
+				}
+			},
+			"slices": 6
+		},
+		"id": "MastPoint:31993"
+	},
+	{
+		"name": "MastPoint: b4fa7b7e-840b-40aa-8c63-ca141e9e2dd3",
+		"properties": {
+			"data": {
+				"id": 31994,
+				"externalMastId": "b4fa7b7e-840b-40aa-8c63-ca141e9e2dd3",
+				"planEntityData": {
+					"liveObjectId": null,
+					"isMarkedForDeletion": false
+				},
+				"lat": 60.1567939429,
+				"lng": 10.2512382314,
+				"poles": [{
+					"id": 32107,
+					"externalPoleId": "8bd3f495-6d86-47a8-9f37-5c4b6bcd775d",
+					"planEntityData": {
+						"liveObjectId": null,
+						"isMarkedForDeletion": false
+					}
+				}]
+			},
+			"entityType": "MASTPOINT"
+		},
+		"position": {
+			"cartographicDegrees": [
+				10.2512382314,
+				60.1567939429,
+				78.4386414600725
+			]
+		},
+		"cylinder": {
+			"length": 8.3,
+			"topRadius": 0.5,
+			"bottomRadius": 0.5,
+			"material": {
+				"solidColor": {
+					"color": {
+						"rgba": [
+							220,
+							220,
+							220,
+							255
+						]
+					}
+				}
+			},
+			"slices": 6
+		},
+		"id": "MastPoint:31994"
+	},
+	{
+		"name": "MastPoint: 323264c2-dded-4167-8973-cbbb55cb81d2",
+		"properties": {
+			"data": {
+				"id": 31995,
+				"externalMastId": "323264c2-dded-4167-8973-cbbb55cb81d2",
+				"planEntityData": {
+					"liveObjectId": null,
+					"isMarkedForDeletion": false
+				},
+				"lat": 60.1569583096,
+				"lng": 10.2507199196,
+				"poles": [{
+					"id": 32108,
+					"externalPoleId": "824470c4-dfd4-4299-a4c4-b64c2c229616",
+					"planEntityData": {
+						"liveObjectId": null,
+						"isMarkedForDeletion": false
+					}
+				}]
+			},
+			"entityType": "MASTPOINT"
+		},
+		"position": {
+			"cartographicDegrees": [
+				10.2507199196,
+				60.1569583096,
+				77.11859368536985
+			]
+		},
+		"cylinder": {
+			"length": 8.3,
+			"topRadius": 0.5,
+			"bottomRadius": 0.5,
+			"material": {
+				"solidColor": {
+					"color": {
+						"rgba": [
+							220,
+							220,
+							220,
+							255
+						]
+					}
+				}
+			},
+			"slices": 6
+		},
+		"id": "MastPoint:31995"
+	},
+	{
+		"name": "Support: Kalkulert fra stolpe",
+		"description": "",
+		"properties": {
+			"data": {
+				"poleId": 32108,
+				"calculated": true,
+				"newSupportDistanceFromPole": 4.05,
+				"newSupportBearingFromPole": 301,
+				"usedSupportGradient": 2,
+				"correctedSupportTension": 20.31,
+				"crossSectionSupport": 21.42,
+				"planEntityData": null
+			},
+			"entityType": "SUPPORT"
+		},
+		"polyline": {
+			"positions": {
+				"cartographicDegrees": [
+					10.2506574322758,
+					60.156977274918134,
+					72.96859368536984,
+					10.2507199196,
+					60.1569583096,
+					81.06859368536985
+				]
+			},
+			"material": {
+				"polylineDash": {
+					"color": {
+						"rgba": [
+							30,
+							144,
+							255,
+							255
+						]
+					},
+					"outlineColor": {
+						"rgba": [
+							30,
+							144,
+							255,
+							255
+						]
+					},
+					"outlineWidth": 1,
+					"dashPattern": 255
+				}
+			},
+			"width": 3,
+			"arcType": 2
+		},
+		"id": "supportPoleId:32108"
+	},
+	{
+		"name": "MastPoint: 63c96141-638e-4fa8-8bb0-9c30b81ebb54",
+		"properties": {
+			"data": {
+				"id": 31996,
+				"externalMastId": "63c96141-638e-4fa8-8bb0-9c30b81ebb54",
+				"planEntityData": {
+					"liveObjectId": null,
+					"isMarkedForDeletion": false
+				},
+				"lat": 60.1565045631,
+				"lng": 10.2504499123,
+				"poles": [{
+					"id": 32109,
+					"externalPoleId": "3243d39d-77d1-4cc2-980c-2a92eb7e00ef",
+					"planEntityData": {
+						"liveObjectId": null,
+						"isMarkedForDeletion": false
+					}
+				}]
+			},
+			"entityType": "MASTPOINT"
+		},
+		"position": {
+			"cartographicDegrees": [
+				10.2504499123,
+				60.1565045631,
+				77.79016334259042
+			]
+		},
+		"cylinder": {
+			"length": 8.3,
+			"topRadius": 0.5,
+			"bottomRadius": 0.5,
+			"material": {
+				"solidColor": {
+					"color": {
+						"rgba": [
+							220,
+							220,
+							220,
+							255
+						]
+					}
+				}
+			},
+			"slices": 6
+		},
+		"id": "MastPoint:31996"
+	},
+	{
+		"name": "MastPoint: 15bc374d-4dc1-4797-8dfa-16ea4d5a30ff",
+		"properties": {
+			"data": {
+				"id": 31997,
+				"externalMastId": "15bc374d-4dc1-4797-8dfa-16ea4d5a30ff",
+				"planEntityData": {
+					"liveObjectId": null,
+					"isMarkedForDeletion": false
+				},
+				"lat": 60.1568232637,
+				"lng": 10.2504072872,
+				"poles": [{
+					"id": 32110,
+					"externalPoleId": "cdd86a48-d6d7-4836-b96f-1ef6027ad63f",
+					"planEntityData": {
+						"liveObjectId": null,
+						"isMarkedForDeletion": false
+					}
+				}]
+			},
+			"entityType": "MASTPOINT"
+		},
+		"position": {
+			"cartographicDegrees": [
+				10.2504072872,
+				60.1568232637,
+				77.015657351321
+			]
+		},
+		"cylinder": {
+			"length": 8.3,
+			"topRadius": 0.5,
+			"bottomRadius": 0.5,
+			"material": {
+				"solidColor": {
+					"color": {
+						"rgba": [
+							220,
+							220,
+							220,
+							255
+						]
+					}
+				}
+			},
+			"slices": 6
+		},
+		"id": "MastPoint:31997"
+	},
+	{
+		"name": "Support: Kalkulert fra stolpe",
+		"description": "",
+		"properties": {
+			"data": {
+				"poleId": 32110,
+				"calculated": true,
+				"newSupportDistanceFromPole": 4.05,
+				"newSupportBearingFromPole": 355,
+				"usedSupportGradient": 2,
+				"correctedSupportTension": 20.31,
+				"crossSectionSupport": 21.42,
+				"planEntityData": null
+			},
+			"entityType": "SUPPORT"
+		},
+		"polyline": {
+			"positions": {
+				"cartographicDegrees": [
+					10.250401036900197,
+					60.156859553178286,
+					72.86565735132099,
+					10.2504072872,
+					60.1568232637,
+					80.965657351321
+				]
+			},
+			"material": {
+				"polylineDash": {
+					"color": {
+						"rgba": [
+							30,
+							144,
+							255,
+							255
+						]
+					},
+					"outlineColor": {
+						"rgba": [
+							30,
+							144,
+							255,
+							255
+						]
+					},
+					"outlineWidth": 1,
+					"dashPattern": 255
+				}
+			},
+			"width": 3,
+			"arcType": 2
+		},
+		"id": "supportPoleId:32110"
+	},
+	{
+		"name": "Line: 924fca24-188a-4223-90ec-5bfb133c4aa4_1 (EX 3x95)",
+		"description": "",
+		"properties": {
+			"data": {
+				"id": 66131,
+				"externalLineId": "924fca24-188a-4223-90ec-5bfb133c4aa4_1",
+				"planEntityData": {
+					"liveObjectId": null,
+					"isMarkedForDeletion": false
+				}
+			},
+			"entityType": "LINE"
+		},
+		"polyline": {
+			"positions": {
+				"cartographicDegrees": [
+					10.2507199196,
+					60.1569583096,
+					81.06899999999999,
+					10.2512382314,
+					60.1567939429,
+					82.38900000000001
+				]
+			},
+			"material": {
+				"polylineOutline": {
+					"color": {
+						"rgba": [
+							47,
+							79,
+							79,
+							255
+						]
+					},
+					"outlineColor": {
+						"rgba": [
+							47,
+							79,
+							79,
+							255
+						]
+					},
+					"outlineWidth": 0
+				}
+			},
+			"width": 2,
+			"arcType": 2
+		},
+		"id": "line:66131"
+	},
+	{
+		"name": "Line: 213fdbbf-3092-405e-8d08-21dfd628a480_1 (EX 3x95)",
+		"description": "",
+		"properties": {
+			"data": {
+				"id": 66132,
+				"externalLineId": "213fdbbf-3092-405e-8d08-21dfd628a480_1",
+				"planEntityData": {
+					"liveObjectId": null,
+					"isMarkedForDeletion": false
+				}
+			},
+			"entityType": "LINE"
+		},
+		"polyline": {
+			"positions": {
+				"cartographicDegrees": [
+					10.2512382314,
+					60.1567939429,
+					82.38900000000001,
+					10.2518222105,
+					60.1566103916,
+					83.43700000000001
+				]
+			},
+			"material": {
+				"polylineOutline": {
+					"color": {
+						"rgba": [
+							47,
+							79,
+							79,
+							255
+						]
+					},
+					"outlineColor": {
+						"rgba": [
+							47,
+							79,
+							79,
+							255
+						]
+					},
+					"outlineWidth": 0
+				}
+			},
+			"width": 2,
+			"arcType": 2
+		},
+		"id": "line:66132"
+	},
+	{
+		"name": "Line: be495cd8-3a74-4e52-99c8-590b3b19d69d_1 (EX 3x95)",
+		"description": "",
+		"properties": {
+			"data": {
+				"id": 66133,
+				"externalLineId": "be495cd8-3a74-4e52-99c8-590b3b19d69d_1",
+				"planEntityData": {
+					"liveObjectId": null,
+					"isMarkedForDeletion": false
+				}
+			},
+			"entityType": "LINE"
+		},
+		"polyline": {
+			"positions": {
+				"cartographicDegrees": [
+					10.2518222105,
+					60.1566103916,
+					83.43700000000001,
+					10.2523726903,
+					60.1564027193,
+					85.233
+				]
+			},
+			"material": {
+				"polylineOutline": {
+					"color": {
+						"rgba": [
+							47,
+							79,
+							79,
+							255
+						]
+					},
+					"outlineColor": {
+						"rgba": [
+							47,
+							79,
+							79,
+							255
+						]
+					},
+					"outlineWidth": 0
+				}
+			},
+			"width": 2,
+			"arcType": 2
+		},
+		"id": "line:66133"
+	},
+	{
+		"name": "Line: 2b272774-58d4-4956-9581-561fb4accf4d_1 (EX 3x95)",
+		"description": "",
+		"properties": {
+			"data": {
+				"id": 66134,
+				"externalLineId": "2b272774-58d4-4956-9581-561fb4accf4d_1",
+				"planEntityData": {
+					"liveObjectId": null,
+					"isMarkedForDeletion": false
+				}
+			},
+			"entityType": "LINE"
+		},
+		"polyline": {
+			"positions": {
+				"cartographicDegrees": [
+					10.2523726903,
+					60.1564027193,
+					85.233,
+					10.252903185,
+					60.1562329669,
+					86.48500000000001
+				]
+			},
+			"material": {
+				"polylineOutline": {
+					"color": {
+						"rgba": [
+							47,
+							79,
+							79,
+							255
+						]
+					},
+					"outlineColor": {
+						"rgba": [
+							47,
+							79,
+							79,
+							255
+						]
+					},
+					"outlineWidth": 0
+				}
+			},
+			"width": 2,
+			"arcType": 2
+		},
+		"id": "line:66134"
+	},
+	{
+		"name": "Line: 79d83771-dfdc-46c7-abe0-b43ecde668e0_1 (EX 3x95)",
+		"description": "",
+		"properties": {
+			"data": {
+				"id": 66135,
+				"externalLineId": "79d83771-dfdc-46c7-abe0-b43ecde668e0_1",
+				"planEntityData": {
+					"liveObjectId": null,
+					"isMarkedForDeletion": false
+				}
+			},
+			"entityType": "LINE"
+		},
+		"polyline": {
+			"positions": {
+				"cartographicDegrees": [
+					10.2504072872,
+					60.1568232637,
+					80.96600000000001,
+					10.2504499123,
+					60.1565045631,
+					81.74000000000001
+				]
+			},
+			"material": {
+				"polylineOutline": {
+					"color": {
+						"rgba": [
+							47,
+							79,
+							79,
+							255
+						]
+					},
+					"outlineColor": {
+						"rgba": [
+							47,
+							79,
+							79,
+							255
+						]
+					},
+					"outlineWidth": 0
+				}
+			},
+			"width": 2,
+			"arcType": 2
+		},
+		"id": "line:66135"
+	},
+	{
+		"name": "Line: c447d77c-fcb2-4dec-85ba-47151ab88c55_1 (EX 3x95)",
+		"description": "",
+		"properties": {
+			"data": {
+				"id": 66136,
+				"externalLineId": "c447d77c-fcb2-4dec-85ba-47151ab88c55_1",
+				"planEntityData": {
+					"liveObjectId": null,
+					"isMarkedForDeletion": false
+				}
+			},
+			"entityType": "LINE"
+		},
+		"polyline": {
+			"positions": {
+				"cartographicDegrees": [
+					10.2504499123,
+					60.1565045631,
+					81.74000000000001,
+					10.2504933984,
+					60.1561899721,
+					82.178
+				]
+			},
+			"material": {
+				"polylineOutline": {
+					"color": {
+						"rgba": [
+							47,
+							79,
+							79,
+							255
+						]
+					},
+					"outlineColor": {
+						"rgba": [
+							47,
+							79,
+							79,
+							255
+						]
+					},
+					"outlineWidth": 0
+				}
+			},
+			"width": 2,
+			"arcType": 2
+		},
+		"id": "line:66136"
+	}
+]
