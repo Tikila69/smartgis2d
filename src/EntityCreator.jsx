@@ -1,4 +1,4 @@
-import { Cartesian3, Entity, PolylineGraphics } from "cesium";
+import { Cartesian3, Entity, PolylineGraphics, Color } from "cesium";
 import { useCesium } from "resium";
 import { useEffect } from "react";
 import czml from './czml.json';
@@ -16,6 +16,12 @@ export default function EntityCreator() {
             const end = coordinates.slice(3, 6);
             const [startLongitude, startLatitude, startHeight] = start;
             const [endLongitude, endLatitude, endHeight] = end;
+            let red, green, blue, alpha;
+            if (item.id.includes("support") && item.polyline.material && item.polyline.material.polylineDash && item.polyline.material.polylineDash.color) {
+              [red, green, blue, alpha] = item.polyline.material.polylineDash.color.rgba;
+            } else if (item.polyline.material && item.polyline.material.polylineOutline && item.polyline.material.polylineOutline.color) {
+              [red, green, blue, alpha] = item.polyline.material.polylineOutline.color.rgba;
+            }
             try {
               const entity = new Entity({
                 polyline: new PolylineGraphics({
@@ -23,6 +29,7 @@ export default function EntityCreator() {
                     Cartesian3.fromDegrees(startLongitude, startLatitude, startHeight),
                     Cartesian3.fromDegrees(endLongitude, endLatitude, endHeight),
                   ],
+                  material: Color.fromBytes(red, green, blue, alpha),
                 }),
                 name: item.name,
               });
